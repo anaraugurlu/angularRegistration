@@ -1,0 +1,27 @@
+.container .name #name{
+  margin-left:2em;
+}
+.container .surname{
+  margin-top: 0.5em;
+}
+.container .age{
+  margin-top: 0.5em;
+}
+.container .surname #surname{
+  margin-left:0.3em;
+}
+.container .hairdate .hairdate{
+  margin-left:0.3em;
+  width: 170px;
+}
+.container .hairdate{
+  margin-top: 0.3em;
+
+}
+.container .age #age{
+  margin-left:3em;
+}
+ .registerbtn {
+  margin-top:1em;
+  margin-left:13em ;
+}
